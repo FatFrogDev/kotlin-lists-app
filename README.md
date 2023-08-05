@@ -2,7 +2,7 @@
 
 ## Description
 
-This proyect has the intenction of showing the adquired abilities to develop Android apps through `Android Studio` and `Kotlin`.
+This proyect has the intention of showing the adquired abilities to develop Android apps through `Android Studio` and `Kotlin`.
 In this case, the app is a simple list of messages with an image.
 
 ## Guide to download, build and run the app
